@@ -1,4 +1,4 @@
-// import Display from './components/BotsDisplay';
+
 import './App.css';
 import Display from './components/BotDisplay';
 
